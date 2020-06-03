@@ -1,1 +1,16 @@
-
+.titulo{
+            float:middle;
+            border:2px solid purple;
+            }
+            .fotos{
+            float:right;
+            top:800px;
+            }
+            .lado{
+            float:left;
+           width:30%;
+           background-color:rgb(242, 41, 108);
+            }
+            #texto{
+            font-family:monospace;   
+            }
